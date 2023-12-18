@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kratin-Project/static/css/main.4e790b08.css",
+    "main.js": "/Kratin-Project/static/js/main.e40f8f3c.js",
+    "static/media/lunch.png": "/Kratin-Project/static/media/lunch.cf9cd691680b60873600.png",
+    "static/media/snack.png": "/Kratin-Project/static/media/snack.b2c14218092486a7fbca.png",
+    "static/media/dinner.png": "/Kratin-Project/static/media/dinner.7d0cdb053a6e2f8b3d00.png",
+    "static/media/breakfast.png": "/Kratin-Project/static/media/breakfast.24a484c246b64ddd62fb.png",
+    "static/media/bg.png": "/Kratin-Project/static/media/bg.433dda24ac4fba25facd.png",
+    "static/media/work6.jpg": "/Kratin-Project/static/media/work6.536ff2e85b4a0c9c1f8c.jpg",
+    "static/media/work1.jpeg": "/Kratin-Project/static/media/work1.0a53bb910bc9a1d7a542.jpeg",
+    "static/media/work3.jpeg": "/Kratin-Project/static/media/work3.45fa04d56d2b58b9e675.jpeg",
+    "static/media/work5.jpeg": "/Kratin-Project/static/media/work5.21098ebd0b991ab95f02.jpeg",
+    "index.html": "/Kratin-Project/index.html",
+    "main.4e790b08.css.map": "/Kratin-Project/static/css/main.4e790b08.css.map",
+    "main.e40f8f3c.js.map": "/Kratin-Project/static/js/main.e40f8f3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e790b08.css",
+    "static/js/main.e40f8f3c.js"
+  ]
+}
