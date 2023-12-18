@@ -12,7 +12,7 @@ Logic
 Rapid Prototyping
 Coding pratice
 ### Deployment
-
+https://abhishekkumar2001.github.io/Kratin-Project/
 #Output
 
 
